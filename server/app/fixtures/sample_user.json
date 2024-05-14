@@ -1,0 +1,49 @@
+{
+    "john": {
+      "settings": {
+        "last_name": "Doe",
+        "first_name": "John",
+        "weight": 175,
+        "goal": "Advanced",
+        "name": "John Doe",
+        "email": "jordaneisenman@gmail.com",
+        "password": "test"
+      },
+      "lifts": {
+        "2020-01-01": {
+            "Back Squat": 210,
+            "Deadlift": 220,
+            "Power Clean": 130,
+            "Bench Press": 160,
+            "Incline Bench Press": 140,
+            "Dip": 200,
+            "Overhead Press": 100,
+            "Pull-up": 180,
+            "Pendlay Row": 140    
+        },
+        "2022-01-01": {
+            "Back Squat": 220,
+            "Deadlift": 235,
+            "Power Clean": 160,
+            "Bench Press": 190,
+            "Incline Bench Press": 160,
+            "Dip": 225,
+            "Overhead Press": 125,
+            "Pull-up": 210,
+            "Pendlay Row": 170    
+        },
+        "2023-01-01": {
+            "Back Squat": 215,
+            "Deadlift": 240,
+            "Power Clean": 200,
+            "Bench Press": 300,
+            "Incline Bench Press": 255,
+            "Dip": 245,
+            "Overhead Press": 170,
+            "Pull-up": 255,
+            "Pendlay Row": 180    
+        }
+      }
+    }
+}
+  

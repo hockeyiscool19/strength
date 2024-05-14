@@ -1,0 +1,92 @@
+{
+    "Back Squat": {
+        "Untrained": 0.77,
+        "Novice": 1.14,
+        "Intermediate": 1.51,
+        "Proficient": 1.91,
+        "Advanced": 2.23,
+        "Exceptional": 2.54,
+        "Elite": 2.86,
+        "World class": 3.17
+    },
+    "Deadlift": {
+        "Untrained": 0.89,
+        "Novice": 1.31,
+        "Intermediate": 1.74,
+        "Proficient": 2.2,
+        "Advanced": 2.54,
+        "Exceptional": 2.91,
+        "Elite": 3.29,
+        "World class": 3.66
+    },
+    "Power Clean": {
+        "Untrained": 0.49,
+        "Novice": 0.74,
+        "Intermediate": 0.97,
+        "Proficient": 1.23,
+        "Advanced": 1.43,
+        "Exceptional": 1.63,
+        "Elite": 1.83,
+        "World class": 2.03
+    },
+    "Bench Press": {
+        "Untrained": 0.57,
+        "Novice": 0.86,
+        "Intermediate": 1.14,
+        "Proficient": 1.43,
+        "Advanced": 1.66,
+        "Exceptional": 1.89,
+        "Elite": 2.14,
+        "World class": 2.37
+    },
+    "Incline Bench Press": {
+        "Untrained": 0.46,
+        "Novice": 0.69,
+        "Intermediate": 0.94,
+        "Proficient": 1.17,
+        "Advanced": 1.37,
+        "Exceptional": 1.54,
+        "Elite": 1.74,
+        "World class": 1.94
+    },
+    "Dip": {
+        "Untrained": 0.09,
+        "Novice": 0.29,
+        "Intermediate": 0.49,
+        "Proficient": 0.71,
+        "Advanced": 0.91,
+        "Exceptional": 1.14,
+        "Elite": 1.31,
+        "World class": 1.51
+    },
+    "Overhead Press": {
+        "Untrained": 0.37,
+        "Novice": 0.54,
+        "Intermediate": 0.74,
+        "Proficient": 0.91,
+        "Advanced": 1.09,
+        "Exceptional": 1.23,
+        "Elite": 1.37,
+        "World class": 1.54
+    },
+    "Pull-up": {
+        "Untrained": 0.97,
+        "Novice": 1.11,
+        "Intermediate": 1.29,
+        "Proficient": 1.46,
+        "Advanced": 1.6,
+        "Exceptional": 1.77,
+        "Elite": 1.91,
+        "World class": 2.06
+    },
+    "Pendlay Row": {
+        "Untrained": 0.46,
+        "Novice": 0.69,
+        "Intermediate": 0.91,
+        "Proficient": 1.17,
+        "Advanced": 1.34,
+        "Exceptional": 1.54,
+        "Elite": 1.74,
+        "World class": 1.94
+    }
+}
